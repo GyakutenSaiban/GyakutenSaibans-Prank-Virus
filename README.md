@@ -1,7 +1,7 @@
 # GyakutenSaibans-Prank-Virus
 Simply just a prank that makes it look like you have a virus.
 
-To edit the prank, unzip "Gyakuten's Prank Virus.zip", go in the folder, select "cool shit in under 700 KB!", then select "Inner Machinations". Select "sussy bussy.vbs" and edit it in Notepad.
+To edit the prank, unzip "Gyakuten's Prank Virus.zip", go in the folder, select "cool shit in under 700 KB!", then select "Inner Machinations". Select "BRAIN POWER.vbs" and edit it in Notepad.
 You can edit the text as such: X=MsgBox("Message text",0+64,"Heading").
 
 ---------------MESSAGE BUTTONS---------------
