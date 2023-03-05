@@ -20,3 +20,5 @@ These are after the plus.
 32 = Help
 48 = Warning
 64 = Information
+
+Why did I even bother showing this to you? It's literally basic VBScript...
